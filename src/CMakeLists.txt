@@ -318,7 +318,7 @@ set_target_properties(
       SOVERSION
         ${LIBRARY_SOVERSION}
       OUTPUT_NAME
-        ssh
+        fbssh
       DEFINE_SYMBOL
         LIBSSH_EXPORTS
 )
